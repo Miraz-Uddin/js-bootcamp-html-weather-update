@@ -1,3 +1,3 @@
-## Tweet Tweet
+## Weather Update
 
-Live link: https://tweet-tweet-by-miraz.netlify.app
+Live link: https://weather-update-by-miraz.netlify.app
